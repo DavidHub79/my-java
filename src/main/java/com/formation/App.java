@@ -4,7 +4,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 
 /**
  * Hello world!
- *
+ *  Commentaire pour tester le job auto de jenkins
  */
 public class App {
 	public static void main( String[] args )

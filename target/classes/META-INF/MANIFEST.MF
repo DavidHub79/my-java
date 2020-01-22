@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: formation
+Class-Path: commons-codec-1.11.jar
+Build-Jdk: 1.8.0_231
+Created-By: Maven Integration for Eclipse
+Main-Class: com.formation.App
+
